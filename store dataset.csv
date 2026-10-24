@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Region,Category,Product,Quantity,Unit_Price_INR,Discount_Pct,Gross_Sales_INR,Discount_Amount_INR,Net_Sales_INR,Cost_INR,Profit_INR,Payment_Method,Sales_Channel,Customer_Type,Customer_Age,Customer_Rating
+ORD0001,2025-01-02,Central,Electronics,Keyboard,5,5297,0,26485,0.0,26485.0,18640.26,7844.74,Net Banking,Online,New,40,3
+ORD0002,2025-01-02,North,Clothing,T-Shirt,1,1001,20,1001,200.2,800.8,530.19,270.61,Credit Card,Online,New,43,1
+ORD0003,2025-01-02,Central,Beauty,Face Wash,1,858,10,858,85.8,772.2,513.16,259.04,Credit Card,Online,Returning,56,5
+ORD0004,2025-01-03,South,Home & Kitchen,Blender,3,1137,10,3411,341.1,3069.9,2063.24,1006.66,UPI,Online,Returning,60,1
+ORD0005,2025-01-04,South,Electronics,Speaker,1,975,15,975,146.25,828.75,732.03,96.72,Net Banking,Store,Returning,48,4
+ORD0006,2025-01-05,West,Beauty,Sunscreen,4,683,15,2732,409.8,2322.2,1690.67,631.53,Credit Card,Online,New,20,1
+ORD0007,2025-01-05,East,Home & Kitchen,Cookware,1,1122,5,1122,56.1,1065.9,648.8,417.1,Credit Card,Store,New,56,5
+ORD0008,2025-01-05,South,Beauty,Sunscreen,5,909,15,4545,681.75,3863.25,3071.4,791.85,Net Banking,Online,Returning,21,2
+ORD0009,2025-01-06,West,Electronics,Keyboard,1,1772,0,1772,0.0,1772.0,1177.16,594.84,UPI,Store,New,43,5
+ORD0010,2025-01-06,Central,Beauty,Face Wash,5,821,15,4105,615.75,3489.25,2949.58,539.67,Net Banking,Online,Returning,20,1
+ORD0011,2025-01-06,West,Home & Kitchen,Lamp,1,2368,10,2368,236.8,2131.2,1507.92,623.28,Cash,Store,Returning,29,3
+ORD0012,2025-01-06,Central,Electronics,Speaker,5,1334,10,6670,667.0,6003.0,4039.24,1963.76,Cash,Store,New,53,5
+ORD0013,2025-01-07,North,Sports,Resistance Band,4,1114,0,4456,0.0,4456.0,2336.44,2119.56,Net Banking,Online,New,24,4
+ORD0014,2025-01-07,North,Electronics,Keyboard,5,5661,5,28305,1415.25,26889.75,21964.38,4925.37,Cash,Store,New,31,5
+ORD0015,2025-01-08,West,Sports,Running Bottle,1,2136,0,2136,0.0,2136.0,1316.41,819.59,Net Banking,Online,Returning,33,3
+ORD0016,2025-01-08,West,Electronics,Smartwatch,3,5567,20,16701,3340.2,13360.8,12421.54,939.26,Credit Card,Store,New,49,5
+ORD0017,2025-01-09,East,Electronics,Keyboard,1,4145,0,4145,0.0,4145.0,2289.07,1855.93,UPI,Store,New,18,5
+ORD0018,2025-01-10,Central,Clothing,Jacket,5,312,10,1560,156.0,1404.0,1123.89,280.11,Credit Card,Store,New,50,5
+ORD0019,2025-01-10,North,Sports,Resistance Band,1,2554,0,2554,0.0,2554.0,1380.53,1173.47,UPI,Online,Returning,44,4
+ORD0020,2025-01-11,East,Electronics,Speaker,3,1522,5,4566,228.3,4337.7,3164.11,1173.59,Net Banking,Online,New,21,4
+ORD0021,2025-01-11,South,Electronics,Headphones,2,5385,0,10770,0.0,10770.0,5762.6,5007.4,Net Banking,Online,Returning,30,4
+ORD0022,2025-01-12,South,Sports,Running Bottle,3,1078,10,3234,323.4,2910.6,2231.24,679.36,Cash,Store,New,40,3
+ORD0023,2025-01-12,West,Beauty,Moisturizer,5,1756,5,8780,439.0,8341.0,5016.99,3324.01,Debit Card,Online,Returning,64,3
+ORD0024,2025-01-15,East,Electronics,Smartwatch,5,1853,0,9265,0.0,9265.0,5610.14,3654.86,Debit Card,Online,Returning,34,3
+ORD0025,2025-01-16,North,Home & Kitchen,Lamp,3,2696,15,8088,1213.2,6874.8,5214.68,1660.12,Debit Card,Online,New,64,3
+ORD0026,2025-01-17,South,Sports,Running Bottle,3,1634,10,4902,490.2,4411.8,3529.25,882.55,Credit Card,Store,Returning,19,1
+ORD0027,2025-01-17,West,Electronics,Headphones,5,5162,5,25810,1290.5,24519.5,13728.3,10791.2,Credit Card,Store,New,38,5
+ORD0028,2025-01-17,East,Beauty,Sunscreen,3,545,0,1635,0.0,1635.0,963.79,671.21,Net Banking,Store,Returning,38,2
+ORD0029,2025-01-20,West,Beauty,Perfume,1,1677,0,1677,0.0,1677.0,910.14,766.86,Debit Card,Online,New,38,5
+ORD0030,2025-01-20,Central,Sports,Resistance Band,5,2973,0,14865,0.0,14865.0,9134.15,5730.85,Credit Card,Online,Returning,19,3
+ORD0031,2025-01-20,North,Home & Kitchen,Cookware,5,928,0,4640,0.0,4640.0,2551.33,2088.67,Credit Card,Online,Returning,52,3
+ORD0032,2025-01-21,West,Electronics,Headphones,2,1991,10,3982,398.2,3583.8,2711.98,871.82,Cash,Online,New,53,3
+ORD0033,2025-01-21,East,Sports,Dumbbells,5,2363,15,11815,1772.25,10042.75,7460.43,2582.32,Net Banking,Online,Returning,36,2
+ORD0034,2025-01-22,South,Home & Kitchen,Cookware,5,643,20,3215,643.0,2572.0,2151.64,420.36,UPI,Online,New,30,1
+ORD0035,2025-01-22,North,Beauty,Sunscreen,4,384,0,1536,0.0,1536.0,865.39,670.61,Cash,Online,Returning,56,4
+ORD0036,2025-01-22,East,Sports,Dumbbells,5,2231,20,11155,2231.0,8924.0,7971.38,952.62,Net Banking,Online,Returning,56,3
+ORD0037,2025-01-22,Central,Beauty,Perfume,5,326,5,1630,81.5,1548.5,1141.21,407.29,Cash,Online,New,32,1
+ORD0038,2025-01-23,North,Home & Kitchen,Storage Box,5,3945,20,19725,3945.0,15780.0,11903.5,3876.5,Cash,Online,Returning,43,5
+ORD0039,2025-01-23,Central,Clothing,Sneakers,3,824,0,2472,0.0,2472.0,1267.6,1204.4,Cash,Store,Returning,18,5
+ORD0040,2025-01-23,East,Beauty,Perfume,2,1647,10,3294,329.4,2964.6,2429.12,535.48,UPI,Online,Returning,43,1
+ORD0041,2025-01-23,West,Beauty,Moisturizer,4,570,15,2280,342.0,1938.0,1332.45,605.55,Net Banking,Online,Returning,39,2
+ORD0042,2025-01-24,East,Electronics,Smartwatch,3,5398,5,16194,809.7,15384.3,11259.55,4124.75,Net Banking,Store,New,55,3
+ORD0043,2025-01-24,East,Home & Kitchen,Blender,1,3990,10,3990,399.0,3591.0,2384.87,1206.13,Net Banking,Online,New,22,2
+ORD0044,2025-01-24,East,Electronics,Headphones,2,1770,10,3540,354.0,3186.0,2063.78,1122.22,Debit Card,Store,Returning,42,3
+ORD0045,2025-01-24,Central,Sports,Dumbbells,2,1144,20,2288,457.6,1830.4,1461.72,368.68,Cash,Online,Returning,19,2
+ORD0046,2025-01-25,South,Sports,Yoga Mat,2,2654,5,5308,265.4,5042.6,3441.96,1600.64,Cash,Store,Returning,59,3
+ORD0047,2025-01-25,North,Sports,Resistance Band,3,2732,15,8196,1229.4,6966.6,4389.4,2577.2,Debit Card,Online,Returning,33,5
+ORD0048,2025-01-26,North,Beauty,Perfume,5,1697,0,8485,0.0,8485.0,4177.37,4307.63,Credit Card,Online,Returning,30,3
+ORD0049,2025-01-27,East,Beauty,Moisturizer,1,1198,0,1198,0.0,1198.0,825.97,372.03,Credit Card,Online,New,29,3
+ORD0050,2025-01-27,North,Electronics,Headphones,2,1293,10,2586,258.6,2327.4,1621.04,706.36,Credit Card,Online,Returning,40,5
+ORD0051,2025-01-27,West,Home & Kitchen,Cookware,2,1159,10,2318,231.8,2086.2,1271.37,814.83,Credit Card,Store,New,41,3
+ORD0052,2025-01-28,Central,Sports,Running Bottle,1,630,20,630,126.0,504.0,304.15,199.85,UPI,Online,New,51,4
+ORD0053,2025-01-28,East,Home & Kitchen,Blender,1,2463,0,2463,0.0,2463.0,1812.79,650.21,Cash,Online,Returning,65,5
+ORD0054,2025-01-29,West,Clothing,Jeans,2,1525,20,3050,610.0,2440.0,1794.81,645.19,Net Banking,Online,Returning,23,4
+ORD0055,2025-01-29,South,Clothing,T-Shirt,3,1698,0,5094,0.0,5094.0,2974.61,2119.39,UPI,Online,Returning,58,4
+ORD0056,2025-01-30,West,Clothing,Jacket,5,573,0,2865,0.0,2865.0,1498.73,1366.27,Cash,Online,Returning,23,5
+ORD0057,2025-01-30,North,Clothing,T-Shirt,5,1517,0,7585,0.0,7585.0,5682.61,1902.39,Net Banking,Online,Returning,26,2
+ORD0058,2025-01-30,North,Beauty,Face Wash,3,716,15,2148,322.2,1825.8,1042.74,783.06,Debit Card,Online,Returning,58,2
+ORD0059,2025-01-31,South,Beauty,Perfume,1,1390,15,1390,208.5,1181.5,903.61,277.89,Cash,Store,Returning,62,3
+ORD0060,2025-01-31,West,Sports,Yoga Mat,1,1371,0,1371,0.0,1371.0,1024.0,347.0,Credit Card,Store,New,35,5
+ORD0061,2025-01-31,Central,Clothing,T-Shirt,4,2323,0,9292,0.0,9292.0,5769.78,3522.22,Cash,Store,New,37,3
+ORD0062,2025-02-01,West,Electronics,Keyboard,4,4575,0,18300,0.0,18300.0,13746.81,4553.19,Net Banking,Store,New,18,2
+ORD0063,2025-02-01,West,Home & Kitchen,Lamp,3,3922,15,11766,1764.9,10001.1,8780.63,1220.47,Credit Card,Online,Returning,45,3
+ORD0064,2025-02-02,South,Clothing,Jeans,1,1566,0,1566,0.0,1566.0,928.89,637.11,Credit Card,Online,New,32,4
+ORD0065,2025-02-02,South,Electronics,Smartwatch,1,5760,15,5760,864.0,4896.0,4287.23,608.77,Credit Card,Online,New,40,3
+ORD0066,2025-02-02,West,Electronics,Smartwatch,3,2075,20,6225,1245.0,4980.0,4206.58,773.42,Debit Card,Online,New,24,2
+ORD0067,2025-02-02,East,Clothing,Sneakers,2,1999,20,3998,799.6,3198.4,3062.07,136.33,UPI,Online,New,28,3
+ORD0068,2025-02-03,East,Home & Kitchen,Blender,5,2562,0,12810,0.0,12810.0,7122.06,5687.94,UPI,Store,Returning,43,4
+ORD0069,2025-02-04,West,Beauty,Moisturizer,5,333,15,1665,249.75,1415.25,902.5,512.75,Net Banking,Online,Returning,52,1
+ORD0070,2025-02-04,Central,Clothing,Jeans,1,1658,10,1658,165.8,1492.2,917.83,574.37,Cash,Store,Returning,53,2
+ORD0071,2025-02-05,North,Home & Kitchen,Lamp,4,1167,20,4668,933.6,3734.4,3484.18,250.22,Cash,Online,Returning,39,3
+ORD0072,2025-02-05,Central,Clothing,Jacket,5,1095,20,5475,1095.0,4380.0,3419.74,960.26,Net Banking,Online,Returning,64,2
+ORD0073,2025-02-05,North,Electronics,Smartwatch,5,859,5,4295,214.75,4080.25,2845.17,1235.08,Debit Card,Online,Returning,49,1
+ORD0074,2025-02-05,West,Sports,Resistance Band,1,1539,0,1539,0.0,1539.0,1163.79,375.21,Credit Card,Online,New,20,4
+ORD0075,2025-02-05,South,Beauty,Perfume,1,1515,20,1515,303.0,1212.0,926.27,285.73,Cash,Online,Returning,31,2
+ORD0076,2025-02-06,North,Sports,Yoga Mat,2,668,10,1336,133.6,1202.4,798.77,403.63,Net Banking,Online,Returning,52,3
+ORD0077,2025-02-07,North,Clothing,Jacket,4,460,5,1840,92.0,1748.0,981.03,766.97,Cash,Store,New,65,3
+ORD0078,2025-02-07,South,Clothing,Sneakers,4,911,10,3644,364.4,3279.6,2079.79,1199.81,Net Banking,Online,Returning,36,3
+ORD0079,2025-02-07,East,Sports,Running Bottle,1,2744,10,2744,274.4,2469.6,1849.79,619.81,Credit Card,Online,Returning,30,1
+ORD0080,2025-02-08,Central,Sports,Yoga Mat,2,2073,0,4146,0.0,4146.0,2396.24,1749.76,UPI,Store,Returning,54,2
+ORD0081,2025-02-08,Central,Sports,Running Bottle,1,631,5,631,31.55,599.45,430.61,168.84,Net Banking,Online,Returning,44,4
+ORD0082,2025-02-08,East,Beauty,Sunscreen,3,657,5,1971,98.55,1872.45,1523.26,349.19,Credit Card,Store,New,43,3
+ORD0083,2025-02-10,Central,Beauty,Sunscreen,5,441,15,2205,330.75,1874.25,1271.55,602.7,Debit Card,Online,Returning,57,2
+ORD0084,2025-02-10,Central,Sports,Yoga Mat,3,2569,20,7707,1541.4,6165.6,5421.85,743.75,Cash,Store,Returning,48,3
+ORD0085,2025-02-10,South,Beauty,Face Wash,4,653,10,2612,261.2,2350.8,1575.02,775.78,Credit Card,Store,Returning,45,1
+ORD0086,2025-02-11,West,Clothing,T-Shirt,1,1299,0,1299,0.0,1299.0,925.28,373.72,UPI,Online,Returning,31,1
+ORD0087,2025-02-11,Central,Sports,Yoga Mat,1,2815,20,2815,563.0,2252.0,1410.01,841.99,UPI,Store,New,40,5
+ORD0088,2025-02-11,South,Clothing,Jacket,3,1863,10,5589,558.9,5030.1,3608.57,1421.53,Debit Card,Store,Returning,18,5
+ORD0089,2025-02-11,South,Electronics,Speaker,1,3437,20,3437,687.4,2749.6,1977.99,771.61,Debit Card,Online,New,35,4
+ORD0090,2025-02-11,South,Beauty,Moisturizer,2,1645,10,3290,329.0,2961.0,1896.57,1064.43,Cash,Store,Returning,28,5
+ORD0091,2025-02-12,East,Clothing,T-Shirt,3,2314,10,6942,694.2,6247.8,3472.77,2775.03,UPI,Online,Returning,58,4
+ORD0092,2025-02-13,South,Electronics,Headphones,2,4156,0,8312,0.0,8312.0,6136.25,2175.75,Net Banking,Online,Returning,20,1
+ORD0093,2025-02-13,West,Home & Kitchen,Cookware,3,1215,10,3645,364.5,3280.5,2570.02,710.48,Debit Card,Online,New,48,2
+ORD0094,2025-02-14,North,Beauty,Sunscreen,5,706,0,3530,0.0,3530.0,2566.07,963.93,Credit Card,Store,New,65,4
+ORD0095,2025-02-14,West,Electronics,Smartwatch,5,2782,15,13910,2086.5,11823.5,7479.27,4344.23,Credit Card,Store,New,30,4
+ORD0096,2025-02-14,Central,Electronics,Keyboard,4,3619,0,14476,0.0,14476.0,7163.27,7312.73,Cash,Online,New,31,3
+ORD0097,2025-02-15,North,Clothing,Sneakers,1,1066,5,1066,53.3,1012.7,678.59,334.11,Credit Card,Online,Returning,58,1
+ORD0098,2025-02-15,North,Clothing,T-Shirt,1,1615,0,1615,0.0,1615.0,1206.53,408.47,Debit Card,Online,Returning,40,1
+ORD0099,2025-02-15,East,Clothing,T-Shirt,3,1320,0,3960,0.0,3960.0,2018.6,1941.4,Credit Card,Online,New,21,1
+ORD0100,2025-02-17,Central,Beauty,Sunscreen,1,553,5,553,27.65,525.35,309.37,215.98,Cash,Online,Returning,19,5
+ORD0101,2025-02-17,Central,Beauty,Face Wash,4,908,0,3632,0.0,3632.0,2672.12,959.88,Cash,Store,Returning,24,5
+ORD0102,2025-02-18,Central,Home & Kitchen,Blender,2,1464,10,2928,292.8,2635.2,2113.6,521.6,UPI,Store,Returning,43,3
+ORD0103,2025-02-19,South,Clothing,Sneakers,5,2071,0,10355,0.0,10355.0,5967.85,4387.15,UPI,Online,Returning,19,3
+ORD0104,2025-02-19,West,Home & Kitchen,Cookware,4,1868,20,7472,1494.4,5977.6,5677.48,300.12,Credit Card,Online,Returning,64,3
+ORD0105,2025-02-19,East,Clothing,Jeans,2,1070,5,2140,107.0,2033.0,1270.26,762.74,UPI,Online,Returning,64,2
+ORD0106,2025-02-20,North,Sports,Yoga Mat,4,957,15,3828,574.2,3253.8,2902.59,351.21,Debit Card,Store,New,49,5
+ORD0107,2025-02-20,Central,Sports,Dumbbells,1,262,0,262,0.0,262.0,179.24,82.76,Debit Card,Online,Returning,25,5
+ORD0108,2025-02-20,Central,Clothing,Jeans,2,1294,5,2588,129.4,2458.6,1924.51,534.09,Credit Card,Online,New,50,1
+ORD0109,2025-02-23,Central,Home & Kitchen,Storage Box,1,2261,20,2261,452.2,1808.8,1665.66,143.14,UPI,Online,Returning,45,2
+ORD0110,2025-02-25,Central,Electronics,Headphones,2,4998,20,9996,1999.2,7996.8,6618.99,1377.81,Debit Card,Online,Returning,24,1
+ORD0111,2025-02-26,Central,Sports,Resistance Band,2,1085,15,2170,325.5,1844.5,1057.2,787.3,Debit Card,Online,Returning,45,1
+ORD0112,2025-02-26,Central,Beauty,Perfume,1,375,10,375,37.5,337.5,238.75,98.75,Credit Card,Online,New,41,2
+ORD0113,2025-02-27,East,Electronics,Headphones,3,5720,20,17160,3432.0,13728.0,8652.43,5075.57,Cash,Store,Returning,35,3
+ORD0114,2025-02-27,South,Electronics,Smartwatch,2,890,20,1780,356.0,1424.0,875.97,548.03,Cash,Online,Returning,36,1
+ORD0115,2025-02-28,West,Clothing,Sneakers,4,2305,15,9220,1383.0,7837.0,4856.43,2980.57,Debit Card,Store,Returning,51,2
+ORD0116,2025-02-28,North,Beauty,Moisturizer,5,626,0,3130,0.0,3130.0,1771.0,1359.0,Net Banking,Online,Returning,24,4
+ORD0117,2025-03-01,South,Home & Kitchen,Storage Box,1,3408,0,3408,0.0,3408.0,2449.45,958.55,Debit Card,Online,Returning,28,5
+ORD0118,2025-03-01,North,Home & Kitchen,Lamp,4,1961,5,7844,392.2,7451.8,4686.41,2765.39,UPI,Online,Returning,52,3
+ORD0119,2025-03-01,Central,Electronics,Speaker,5,3944,0,19720,0.0,19720.0,15238.05,4481.95,Credit Card,Online,Returning,59,5
+ORD0120,2025-03-02,South,Electronics,Headphones,3,960,0,2880,0.0,2880.0,1873.64,1006.36,Net Banking,Online,Returning,56,2
+ORD0121,2025-03-02,East,Home & Kitchen,Storage Box,5,3490,5,17450,872.5,16577.5,8850.18,7727.32,Credit Card,Online,Returning,58,2
+ORD0122,2025-03-03,North,Clothing,Sneakers,1,1230,10,1230,123.0,1107.0,838.68,268.32,Debit Card,Online,Returning,61,1
+ORD0123,2025-03-04,Central,Beauty,Sunscreen,4,1121,10,4484,448.4,4035.6,2835.94,1199.66,Debit Card,Store,Returning,42,3
+ORD0124,2025-03-05,East,Sports,Dumbbells,5,876,10,4380,438.0,3942.0,2169.2,1772.8,Net Banking,Online,Returning,31,3
+ORD0125,2025-03-07,North,Beauty,Face Wash,5,1383,10,6915,691.5,6223.5,4642.6,1580.9,Net Banking,Online,New,38,4
+ORD0126,2025-03-07,North,Beauty,Perfume,5,1138,15,5690,853.5,4836.5,3594.54,1241.96,Cash,Online,New,46,4
+ORD0127,2025-03-07,East,Clothing,T-Shirt,2,1122,15,2244,336.6,1907.4,1260.63,646.77,UPI,Store,New,31,1
+ORD0128,2025-03-08,West,Clothing,Jeans,2,715,15,1430,214.5,1215.5,761.55,453.95,Credit Card,Online,New,36,2
+ORD0129,2025-03-08,South,Clothing,Jeans,2,1855,0,3710,0.0,3710.0,2316.29,1393.71,Cash,Store,Returning,27,3
+ORD0130,2025-03-10,West,Home & Kitchen,Storage Box,2,1603,10,3206,320.6,2885.4,1915.96,969.44,Credit Card,Store,New,26,2
+ORD0131,2025-03-10,North,Clothing,T-Shirt,1,1842,0,1842,0.0,1842.0,1305.88,536.12,Net Banking,Online,Returning,19,5
+ORD0132,2025-03-11,West,Beauty,Sunscreen,3,1523,15,4569,685.35,3883.65,2824.92,1058.73,UPI,Online,Returning,40,3
+ORD0133,2025-03-11,North,Home & Kitchen,Cookware,3,2320,0,6960,0.0,6960.0,3810.97,3149.03,Cash,Store,Returning,50,5
+ORD0134,2025-03-11,East,Electronics,Speaker,1,2366,10,2366,236.6,2129.4,1802.04,327.36,Credit Card,Online,New,28,1
+ORD0135,2025-03-11,West,Clothing,T-Shirt,4,1684,15,6736,1010.4,5725.6,4610.11,1115.49,UPI,Online,Returning,64,2
+ORD0136,2025-03-12,South,Sports,Resistance Band,4,2489,0,9956,0.0,9956.0,5603.86,4352.14,Net Banking,Online,Returning,65,3
+ORD0137,2025-03-12,West,Beauty,Moisturizer,4,1105,15,4420,663.0,3757.0,2404.14,1352.86,UPI,Online,Returning,60,1
+ORD0138,2025-03-12,North,Clothing,T-Shirt,5,1903,5,9515,475.75,9039.25,6699.73,2339.52,Credit Card,Online,New,45,3
+ORD0139,2025-03-13,West,Home & Kitchen,Cookware,4,2658,20,10632,2126.4,8505.6,6416.98,2088.62,Debit Card,Store,New,65,4
+ORD0140,2025-03-13,South,Electronics,Speaker,5,1218,0,6090,0.0,6090.0,3770.61,2319.39,Credit Card,Store,Returning,43,5
+ORD0141,2025-03-13,Central,Beauty,Moisturizer,4,604,20,2416,483.2,1932.8,1451.08,481.72,Credit Card,Store,New,30,1
+ORD0142,2025-03-14,South,Electronics,Headphones,4,4088,20,16352,3270.4,13081.6,12023.61,1057.99,Net Banking,Online,New,59,5
+ORD0143,2025-03-14,North,Home & Kitchen,Cookware,1,3099,15,3099,464.85,2634.15,2360.05,274.1,Cash,Online,Returning,26,3
+ORD0144,2025-03-14,South,Sports,Running Bottle,1,1041,0,1041,0.0,1041.0,574.11,466.89,Debit Card,Online,Returning,59,2
+ORD0145,2025-03-15,West,Sports,Resistance Band,5,2275,10,11375,1137.5,10237.5,7245.05,2992.45,UPI,Store,Returning,18,4
+ORD0146,2025-03-15,South,Sports,Resistance Band,1,2005,10,2005,200.5,1804.5,1555.86,248.64,UPI,Online,Returning,22,2
+ORD0147,2025-03-16,South,Home & Kitchen,Storage Box,4,3924,5,15696,784.8,14911.2,11160.77,3750.43,Credit Card,Online,Returning,62,5
+ORD0148,2025-03-16,East,Sports,Yoga Mat,3,1799,10,5397,539.7,4857.3,2679.95,2177.35,Credit Card,Store,New,58,2
+ORD0149,2025-03-16,West,Home & Kitchen,Storage Box,5,3061,15,15305,2295.75,13009.25,10771.97,2237.28,Net Banking,Online,Returning,37,4
+ORD0150,2025-03-17,South,Beauty,Face Wash,4,711,15,2844,426.6,2417.4,1907.38,510.02,Cash,Online,Returning,23,3
+ORD0151,2025-03-17,North,Electronics,Keyboard,2,1768,5,3536,176.8,3359.2,2311.07,1048.13,UPI,Store,Returning,50,5
+ORD0152,2025-03-17,North,Sports,Dumbbells,5,497,0,2485,0.0,2485.0,1245.96,1239.04,Net Banking,Online,New,43,5
+ORD0153,2025-03-17,Central,Beauty,Perfume,1,825,10,825,82.5,742.5,525.23,217.27,Cash,Online,New,26,3
+ORD0154,2025-03-18,West,Electronics,Headphones,3,4921,0,14763,0.0,14763.0,10815.68,3947.32,Credit Card,Store,Returning,60,1
+ORD0155,2025-03-19,Central,Sports,Resistance Band,2,2144,20,4288,857.6,3430.4,2437.75,992.65,Debit Card,Online,Returning,31,4
+ORD0156,2025-03-19,West,Home & Kitchen,Lamp,1,756,10,756,75.6,680.4,517.69,162.71,UPI,Online,Returning,38,1
+ORD0157,2025-03-19,North,Sports,Yoga Mat,2,901,15,1802,270.3,1531.7,1160.02,371.68,Cash,Online,Returning,21,4
+ORD0158,2025-03-20,East,Beauty,Sunscreen,5,1209,15,6045,906.75,5138.25,3031.9,2106.35,Debit Card,Online,Returning,34,3
+ORD0159,2025-03-20,East,Home & Kitchen,Cookware,5,1939,0,9695,0.0,9695.0,4930.45,4764.55,UPI,Online,Returning,43,4
+ORD0160,2025-03-20,North,Beauty,Face Wash,2,324,0,648,0.0,648.0,432.86,215.14,Credit Card,Online,Returning,31,4
+ORD0161,2025-03-20,Central,Electronics,Headphones,2,5500,15,11000,1650.0,9350.0,8576.13,773.87,Credit Card,Online,New,50,2
+ORD0162,2025-03-21,East,Beauty,Perfume,4,330,10,1320,132.0,1188.0,974.15,213.85,Net Banking,Online,Returning,50,5
+ORD0163,2025-03-22,Central,Clothing,Jeans,5,831,20,4155,831.0,3324.0,2989.67,334.33,Credit Card,Online,Returning,21,3
+ORD0164,2025-03-22,East,Electronics,Keyboard,3,4074,5,12222,611.1,11610.9,7079.02,4531.88,UPI,Online,Returning,65,3
+ORD0165,2025-03-22,South,Electronics,Headphones,1,4724,5,4724,236.2,4487.8,2518.37,1969.43,Cash,Online,New,18,1
+ORD0166,2025-03-23,West,Sports,Running Bottle,5,677,10,3385,338.5,3046.5,2076.38,970.12,Debit Card,Online,Returning,48,5
+ORD0167,2025-03-24,Central,Electronics,Headphones,3,1646,0,4938,0.0,4938.0,2670.65,2267.35,Cash,Store,Returning,64,5
+ORD0168,2025-03-24,North,Sports,Dumbbells,3,1239,0,3717,0.0,3717.0,1835.41,1881.59,Credit Card,Store,New,33,3
+ORD0169,2025-03-24,Central,Home & Kitchen,Lamp,2,3162,15,6324,948.6,5375.4,3230.55,2144.85,Debit Card,Online,New,26,1
+ORD0170,2025-03-25,East,Sports,Yoga Mat,3,735,15,2205,330.75,1874.25,1670.74,203.51,Credit Card,Store,New,32,5
+ORD0171,2025-03-25,North,Home & Kitchen,Storage Box,3,3111,20,9333,1866.6,7466.4,7197.73,268.67,Debit Card,Online,Returning,20,4
+ORD0172,2025-03-25,West,Sports,Running Bottle,3,672,15,2016,302.4,1713.6,1013.05,700.55,Cash,Store,Returning,52,3
+ORD0173,2025-03-26,West,Home & Kitchen,Cookware,5,2999,0,14995,0.0,14995.0,8185.38,6809.62,Debit Card,Store,Returning,22,2
+ORD0174,2025-03-27,North,Sports,Resistance Band,4,914,10,3656,365.6,3290.4,2771.25,519.15,Credit Card,Store,Returning,44,1
+ORD0175,2025-03-28,North,Home & Kitchen,Blender,4,1524,10,6096,609.6,5486.4,4304.58,1181.82,Credit Card,Online,Returning,53,3
+ORD0176,2025-03-28,West,Clothing,Sneakers,1,2062,0,2062,0.0,2062.0,1537.28,524.72,Debit Card,Online,New,26,4
+ORD0177,2025-03-30,South,Electronics,Headphones,3,2218,10,6654,665.4,5988.6,4235.69,1752.91,Credit Card,Online,Returning,32,2
+ORD0178,2025-04-01,West,Clothing,Jacket,4,1209,10,4836,483.6,4352.4,2893.0,1459.4,Net Banking,Online,Returning,27,3
+ORD0179,2025-04-01,Central,Electronics,Headphones,4,3430,0,13720,0.0,13720.0,9807.69,3912.31,Net Banking,Online,Returning,29,4
+ORD0180,2025-04-01,South,Sports,Dumbbells,4,2805,20,11220,2244.0,8976.0,5528.14,3447.86,Debit Card,Online,New,56,2
+ORD0181,2025-04-02,North,Electronics,Speaker,1,786,5,786,39.3,746.7,490.42,256.28,Net Banking,Online,New,27,1
+ORD0182,2025-04-02,West,Beauty,Sunscreen,5,225,10,1125,112.5,1012.5,853.91,158.59,Debit Card,Store,New,60,3
+ORD0183,2025-04-02,Central,Beauty,Sunscreen,1,832,5,832,41.6,790.4,531.83,258.57,Net Banking,Online,New,27,1
+ORD0184,2025-04-03,East,Home & Kitchen,Cookware,3,2800,10,8400,840.0,7560.0,4695.96,2864.04,Credit Card,Online,Returning,40,3
+ORD0185,2025-04-03,West,Beauty,Moisturizer,1,588,20,588,117.6,470.4,342.68,127.72,UPI,Online,New,63,2
+ORD0186,2025-04-03,East,Beauty,Perfume,2,1645,10,3290,329.0,2961.0,2280.32,680.68,Cash,Store,New,43,1
+ORD0187,2025-04-04,West,Electronics,Keyboard,5,3526,0,17630,0.0,17630.0,13368.84,4261.16,Credit Card,Online,New,54,2
+ORD0188,2025-04-04,Central,Clothing,Jeans,5,1075,5,5375,268.75,5106.25,3201.08,1905.17,Credit Card,Online,New,47,1
+ORD0189,2025-04-05,Central,Clothing,T-Shirt,2,1618,10,3236,323.6,2912.4,2069.57,842.83,Credit Card,Store,Returning,53,5
+ORD0190,2025-04-06,East,Home & Kitchen,Storage Box,1,3125,5,3125,156.25,2968.75,2371.16,597.59,UPI,Store,Returning,19,1
+ORD0191,2025-04-07,South,Clothing,Jacket,1,1771,10,1771,177.1,1593.9,1305.33,288.57,UPI,Online,Returning,58,1
+ORD0192,2025-04-10,Central,Beauty,Moisturizer,3,1553,15,4659,698.85,3960.15,2614.18,1345.97,Net Banking,Online,New,53,3
+ORD0193,2025-04-11,East,Electronics,Smartwatch,3,2064,5,6192,309.6,5882.4,4023.17,1859.23,Debit Card,Store,New,50,5
+ORD0194,2025-04-12,South,Electronics,Speaker,3,5828,10,17484,1748.4,15735.6,9283.89,6451.71,Net Banking,Online,New,25,5
+ORD0195,2025-04-13,North,Sports,Yoga Mat,2,411,10,822,82.2,739.8,595.76,144.04,UPI,Online,New,21,4
+ORD0196,2025-04-13,South,Clothing,T-Shirt,2,874,5,1748,87.4,1660.6,1147.2,513.4,Cash,Online,New,52,1
+ORD0197,2025-04-13,Central,Beauty,Sunscreen,4,574,20,2296,459.2,1836.8,1162.53,674.27,UPI,Store,Returning,34,2
+ORD0198,2025-04-13,East,Clothing,Jeans,4,1922,15,7688,1153.2,6534.8,4274.47,2260.33,Cash,Online,New,23,4
+ORD0199,2025-04-14,East,Electronics,Smartwatch,3,4173,15,12519,1877.85,10641.15,9300.12,1341.03,UPI,Online,New,59,3
+ORD0200,2025-04-14,West,Home & Kitchen,Cookware,5,1633,5,8165,408.25,7756.75,4401.65,3355.1,Credit Card,Online,New,29,2
+ORD0201,2025-04-15,North,Beauty,Perfume,5,628,20,3140,628.0,2512.0,1998.91,513.09,Net Banking,Store,New,52,3
+ORD0202,2025-04-15,West,Sports,Running Bottle,3,505,10,1515,151.5,1363.5,784.72,578.78,Cash,Online,Returning,58,5
+ORD0203,2025-04-15,North,Home & Kitchen,Lamp,5,3079,15,15395,2309.25,13085.75,7557.85,5527.9,Debit Card,Online,Returning,54,4
+ORD0204,2025-04-15,East,Home & Kitchen,Cookware,1,1521,0,1521,0.0,1521.0,772.78,748.22,Net Banking,Store,New,31,2
+ORD0205,2025-04-17,North,Electronics,Speaker,1,4453,5,4453,222.65,4230.35,2190.24,2040.11,Cash,Online,New,63,4
+ORD0206,2025-04-19,West,Sports,Resistance Band,2,1586,10,3172,317.2,2854.8,1831.49,1023.31,Debit Card,Online,Returning,48,5
+ORD0207,2025-04-19,South,Beauty,Sunscreen,5,154,5,770,38.5,731.5,436.01,295.49,UPI,Store,Returning,47,5
+ORD0208,2025-04-19,South,Sports,Yoga Mat,5,470,5,2350,117.5,2232.5,1823.15,409.35,Credit Card,Online,Returning,38,3
+ORD0209,2025-04-19,South,Sports,Running Bottle,1,631,10,631,63.1,567.9,433.45,134.45,Net Banking,Online,Returning,49,1
+ORD0210,2025-04-19,Central,Clothing,T-Shirt,4,1437,15,5748,862.2,4885.8,2873.54,2012.26,Net Banking,Store,New,32,1
+ORD0211,2025-04-19,Central,Sports,Yoga Mat,3,1757,10,5271,527.1,4743.9,3788.04,955.86,Debit Card,Online,Returning,37,1
+ORD0212,2025-04-19,West,Home & Kitchen,Storage Box,5,2041,10,10205,1020.5,9184.5,6996.18,2188.32,Credit Card,Online,New,34,3
+ORD0213,2025-04-19,Central,Clothing,Jeans,3,1831,5,5493,274.65,5218.35,2883.73,2334.62,Net Banking,Online,New,39,4
+ORD0214,2025-04-20,North,Sports,Resistance Band,1,273,0,273,0.0,273.0,193.47,79.53,Net Banking,Online,Returning,23,1
+ORD0215,2025-04-20,Central,Sports,Running Bottle,2,280,10,560,56.0,504.0,435.33,68.67,Credit Card,Online,New,36,3
+ORD0216,2025-04-20,East,Beauty,Perfume,2,921,15,1842,276.3,1565.7,1020.8,544.9,Debit Card,Online,New,43,5
+ORD0217,2025-04-20,South,Home & Kitchen,Lamp,5,1813,10,9065,906.5,8158.5,4642.97,3515.53,Credit Card,Online,New,58,5
+ORD0218,2025-04-20,North,Beauty,Face Wash,1,1532,20,1532,306.4,1225.6,1068.89,156.71,UPI,Store,Returning,30,4
+ORD0219,2025-04-21,North,Electronics,Speaker,5,4507,10,22535,2253.5,20281.5,17286.41,2995.09,Debit Card,Store,Returning,50,4
+ORD0220,2025-04-21,North,Clothing,Sneakers,3,314,10,942,94.2,847.8,613.69,234.11,UPI,Online,Returning,54,3
+ORD0221,2025-04-22,North,Clothing,Jacket,4,716,10,2864,286.4,2577.6,1836.55,741.05,Cash,Online,New,58,3
+ORD0222,2025-04-22,Central,Sports,Resistance Band,3,1878,0,5634,0.0,5634.0,3944.95,1689.05,Net Banking,Online,Returning,32,2
+ORD0223,2025-04-22,West,Beauty,Moisturizer,5,760,5,3800,190.0,3610.0,1881.43,1728.57,UPI,Online,New,62,5
+ORD0224,2025-04-22,Central,Clothing,Jacket,5,2378,15,11890,1783.5,10106.5,7074.58,3031.92,Cash,Store,New,62,4
+ORD0225,2025-04-23,Central,Sports,Resistance Band,1,2789,15,2789,418.35,2370.65,1775.6,595.05,Debit Card,Online,Returning,50,3
+ORD0226,2025-04-23,East,Electronics,Headphones,4,4319,5,17276,863.8,16412.2,8568.85,7843.35,Net Banking,Store,Returning,55,4
+ORD0227,2025-04-23,South,Sports,Dumbbells,4,516,0,2064,0.0,2064.0,1508.77,555.23,UPI,Online,Returning,65,2
+ORD0228,2025-04-24,Central,Clothing,T-Shirt,2,2077,20,4154,830.8,3323.2,2182.09,1141.11,Net Banking,Store,Returning,30,4
+ORD0229,2025-04-25,North,Home & Kitchen,Lamp,4,2839,20,11356,2271.2,9084.8,7445.91,1638.89,Cash,Online,New,56,3
+ORD0230,2025-04-25,North,Clothing,Jacket,1,1443,10,1443,144.3,1298.7,855.1,443.6,Net Banking,Online,New,63,2
+ORD0231,2025-04-26,Central,Home & Kitchen,Lamp,2,2664,5,5328,266.4,5061.6,3664.77,1396.83,UPI,Online,Returning,59,1
+ORD0232,2025-04-26,East,Sports,Running Bottle,4,1670,10,6680,668.0,6012.0,4000.11,2011.89,UPI,Online,Returning,21,5
+ORD0233,2025-04-26,South,Clothing,T-Shirt,4,1708,10,6832,683.2,6148.8,4549.94,1598.86,Cash,Store,New,24,5
+ORD0234,2025-04-26,Central,Clothing,T-Shirt,2,1080,0,2160,0.0,2160.0,1325.33,834.67,Credit Card,Online,Returning,22,3
+ORD0235,2025-04-26,East,Sports,Resistance Band,4,592,5,2368,118.4,2249.6,1785.46,464.14,UPI,Online,Returning,45,5
+ORD0236,2025-04-27,East,Home & Kitchen,Cookware,5,1962,0,9810,0.0,9810.0,5133.05,4676.95,Cash,Online,Returning,20,2
+ORD0237,2025-04-27,South,Clothing,Sneakers,5,1461,5,7305,365.25,6939.75,4589.57,2350.18,UPI,Store,Returning,61,5
+ORD0238,2025-04-27,West,Clothing,Sneakers,5,1072,10,5360,536.0,4824.0,3252.17,1571.83,Debit Card,Online,New,50,2
+ORD0239,2025-04-28,South,Sports,Yoga Mat,3,1982,10,5946,594.6,5351.4,3618.6,1732.8,Debit Card,Online,Returning,36,1
+ORD0240,2025-04-28,South,Beauty,Perfume,5,623,5,3115,155.75,2959.25,2319.07,640.18,Cash,Store,Returning,26,5
+ORD0241,2025-04-28,South,Electronics,Speaker,1,2926,10,2926,292.6,2633.4,2218.16,415.24,Credit Card,Online,New,54,2
+ORD0242,2025-04-28,South,Clothing,Sneakers,4,2307,10,9228,922.8,8305.2,6660.26,1644.94,Net Banking,Online,Returning,36,3
+ORD0243,2025-04-29,North,Clothing,Jacket,3,927,10,2781,278.1,2502.9,1752.85,750.05,Debit Card,Store,Returning,21,2
+ORD0244,2025-04-29,South,Beauty,Sunscreen,3,292,5,876,43.8,832.2,614.73,217.47,Credit Card,Store,New,41,3
+ORD0245,2025-05-01,Central,Electronics,Speaker,2,2720,15,5440,816.0,4624.0,2881.89,1742.11,Net Banking,Online,New,62,5
+ORD0246,2025-05-02,East,Sports,Running Bottle,4,2483,15,9932,1489.8,8442.2,6163.02,2279.18,Net Banking,Online,New,44,4
+ORD0247,2025-05-03,South,Sports,Resistance Band,1,633,15,633,94.95,538.05,346.83,191.22,Debit Card,Store,New,38,3
+ORD0248,2025-05-03,Central,Home & Kitchen,Lamp,5,1582,0,7910,0.0,7910.0,5554.75,2355.25,Cash,Online,New,42,5
+ORD0249,2025-05-04,West,Sports,Yoga Mat,4,1168,5,4672,233.6,4438.4,2887.35,1551.05,UPI,Online,Returning,22,3
+ORD0250,2025-05-04,North,Sports,Yoga Mat,2,2353,5,4706,235.3,4470.7,3363.98,1106.72,Credit Card,Online,Returning,65,1
+ORD0251,2025-05-04,Central,Sports,Yoga Mat,1,472,15,472,70.8,401.2,339.49,61.71,Net Banking,Store,Returning,45,3
+ORD0252,2025-05-04,East,Home & Kitchen,Lamp,4,626,0,2504,0.0,2504.0,1911.66,592.34,Debit Card,Store,Returning,57,5
+ORD0253,2025-05-05,West,Clothing,T-Shirt,2,781,15,1562,234.3,1327.7,915.98,411.72,Cash,Online,New,43,1
+ORD0254,2025-05-05,South,Home & Kitchen,Blender,4,2641,0,10564,0.0,10564.0,7263.44,3300.56,Cash,Online,Returning,39,2
+ORD0255,2025-05-05,East,Home & Kitchen,Storage Box,4,3024,15,12096,1814.4,10281.6,7909.57,2372.03,Cash,Online,Returning,54,4
+ORD0256,2025-05-05,West,Clothing,Sneakers,1,1639,0,1639,0.0,1639.0,907.07,731.93,Credit Card,Store,New,61,1
+ORD0257,2025-05-06,East,Electronics,Headphones,2,5328,0,10656,0.0,10656.0,6900.85,3755.15,Credit Card,Online,Returning,23,5
+ORD0258,2025-05-06,North,Beauty,Moisturizer,4,1599,20,6396,1279.2,5116.8,4488.22,628.58,Debit Card,Online,Returning,43,4
+ORD0259,2025-05-06,Central,Electronics,Headphones,5,3091,10,15455,1545.5,13909.5,10400.45,3509.05,Cash,Online,New,47,1
+ORD0260,2025-05-07,Central,Electronics,Speaker,2,2994,0,5988,0.0,5988.0,3930.2,2057.8,Credit Card,Online,Returning,52,2
+ORD0261,2025-05-07,East,Beauty,Moisturizer,2,829,15,1658,248.7,1409.3,1263.17,146.13,Cash,Online,Returning,18,3
+ORD0262,2025-05-07,Central,Sports,Dumbbells,4,536,10,2144,214.4,1929.6,1108.78,820.82,Debit Card,Online,Returning,28,1
+ORD0263,2025-05-08,North,Beauty,Perfume,5,864,0,4320,0.0,4320.0,2354.57,1965.43,Credit Card,Online,Returning,43,1
+ORD0264,2025-05-09,East,Electronics,Headphones,1,1195,10,1195,119.5,1075.5,653.12,422.38,UPI,Store,New,51,1
+ORD0265,2025-05-09,South,Electronics,Headphones,5,5900,20,29500,5900.0,23600.0,14942.68,8657.32,Net Banking,Online,Returning,45,3
+ORD0266,2025-05-10,South,Electronics,Smartwatch,3,5635,5,16905,845.25,16059.75,11404.66,4655.09,Net Banking,Online,Returning,36,3
+ORD0267,2025-05-11,Central,Beauty,Perfume,5,401,10,2005,200.5,1804.5,1055.62,748.88,Credit Card,Store,New,31,4
+ORD0268,2025-05-11,South,Beauty,Sunscreen,3,349,0,1047,0.0,1047.0,687.81,359.19,Cash,Online,New,34,4
+ORD0269,2025-05-12,West,Home & Kitchen,Lamp,3,2361,10,7083,708.3,6374.7,4402.35,1972.35,Credit Card,Online,New,49,1
+ORD0270,2025-05-13,North,Electronics,Speaker,5,1879,5,9395,469.75,8925.25,5688.51,3236.74,Credit Card,Store,Returning,49,5
+ORD0271,2025-05-14,West,Sports,Yoga Mat,1,2761,10,2761,276.1,2484.9,1603.9,881.0,UPI,Online,New,50,5
+ORD0272,2025-05-16,South,Electronics,Speaker,4,5839,5,23356,1167.8,22188.2,15015.16,7173.04,Credit Card,Online,Returning,65,1
+ORD0273,2025-05-16,North,Clothing,Jeans,1,857,10,857,85.7,771.3,622.06,149.24,Cash,Store,Returning,47,5
+ORD0274,2025-05-17,East,Electronics,Keyboard,5,2174,0,10870,0.0,10870.0,6004.46,4865.54,UPI,Online,New,27,4
+ORD0275,2025-05-17,Central,Beauty,Sunscreen,5,1657,10,8285,828.5,7456.5,5152.16,2304.34,Cash,Online,Returning,54,1
+ORD0276,2025-05-17,West,Beauty,Sunscreen,4,613,0,2452,0.0,2452.0,1746.62,705.38,Debit Card,Online,New,54,4
+ORD0277,2025-05-17,West,Clothing,Jeans,2,1374,5,2748,137.4,2610.6,1903.49,707.11,Net Banking,Online,New,38,2
+ORD0278,2025-05-17,South,Clothing,Jeans,2,1603,5,3206,160.3,3045.7,1674.77,1370.93,Credit Card,Store,Returning,48,2
+ORD0279,2025-05-19,West,Home & Kitchen,Storage Box,2,1202,20,2404,480.8,1923.2,1663.16,260.04,Cash,Online,New,45,4
+ORD0280,2025-05-19,North,Sports,Dumbbells,2,1480,15,2960,444.0,2516.0,2286.96,229.04,Debit Card,Online,Returning,55,2
+ORD0281,2025-05-19,East,Clothing,Sneakers,3,2114,10,6342,634.2,5707.8,3986.96,1720.84,Cash,Online,New,42,2
+ORD0282,2025-05-19,Central,Clothing,Jacket,5,605,5,3025,151.25,2873.75,1856.77,1016.98,Debit Card,Online,Returning,21,3
+ORD0283,2025-05-19,West,Clothing,T-Shirt,3,452,15,1356,203.4,1152.6,1019.77,132.83,Credit Card,Online,Returning,55,2
+ORD0284,2025-05-19,Central,Clothing,T-Shirt,2,849,15,1698,254.7,1443.3,976.15,467.15,Credit Card,Online,Returning,56,5
+ORD0285,2025-05-20,South,Clothing,Sneakers,1,691,10,691,69.1,621.9,341.52,280.38,UPI,Online,New,25,1
+ORD0286,2025-05-20,East,Sports,Resistance Band,2,2342,10,4684,468.4,4215.6,3198.26,1017.34,Credit Card,Online,New,19,5
+ORD0287,2025-05-22,North,Clothing,Jeans,4,1126,10,4504,450.4,4053.6,3016.48,1037.12,UPI,Store,New,65,2
+ORD0288,2025-05-22,South,Beauty,Face Wash,5,1454,0,7270,0.0,7270.0,3910.55,3359.45,Debit Card,Online,Returning,53,5
+ORD0289,2025-05-22,East,Electronics,Smartwatch,2,5475,15,10950,1642.5,9307.5,7755.96,1551.54,Net Banking,Online,Returning,19,2
+ORD0290,2025-05-22,North,Electronics,Smartwatch,3,1617,15,4851,727.65,4123.35,3259.14,864.21,Cash,Store,Returning,32,1
+ORD0291,2025-05-23,North,Clothing,T-Shirt,1,961,0,961,0.0,961.0,556.92,404.08,UPI,Online,Returning,40,2
+ORD0292,2025-05-23,South,Beauty,Sunscreen,1,240,10,240,24.0,216.0,164.93,51.07,UPI,Online,New,56,4
+ORD0293,2025-05-24,North,Clothing,Sneakers,4,682,10,2728,272.8,2455.2,1342.32,1112.88,Net Banking,Online,New,19,3
+ORD0294,2025-05-25,Central,Beauty,Sunscreen,4,1512,0,6048,0.0,6048.0,3049.18,2998.82,Cash,Store,New,45,2
+ORD0295,2025-05-26,South,Clothing,T-Shirt,4,839,10,3356,335.6,3020.4,2001.57,1018.83,Debit Card,Online,New,45,5
+ORD0296,2025-05-26,North,Home & Kitchen,Storage Box,2,3687,20,7374,1474.8,5899.2,4461.35,1437.85,UPI,Online,New,65,1
+ORD0297,2025-05-27,South,Beauty,Moisturizer,1,1759,0,1759,0.0,1759.0,1238.99,520.01,Credit Card,Online,New,21,2
+ORD0298,2025-05-27,Central,Sports,Dumbbells,3,2162,0,6486,0.0,6486.0,4685.16,1800.84,Cash,Online,Returning,34,3
+ORD0299,2025-05-28,East,Electronics,Smartwatch,2,1294,0,2588,0.0,2588.0,1345.15,1242.85,Net Banking,Online,New,52,2
+ORD0300,2025-05-30,South,Beauty,Sunscreen,5,1448,0,7240,0.0,7240.0,4683.31,2556.69,Credit Card,Store,Returning,32,3
+ORD0301,2025-05-30,North,Electronics,Speaker,3,3630,0,10890,0.0,10890.0,7853.87,3036.13,UPI,Online,Returning,27,1
+ORD0302,2025-05-30,East,Electronics,Headphones,1,4389,5,4389,219.45,4169.55,2407.03,1762.52,UPI,Store,Returning,33,1
+ORD0303,2025-05-31,North,Sports,Resistance Band,2,2202,15,4404,660.6,3743.4,3197.05,546.35,Debit Card,Online,New,63,1
+ORD0304,2025-05-31,North,Beauty,Perfume,3,319,0,957,0.0,957.0,642.74,314.26,Cash,Online,New,24,3
+ORD0305,2025-06-01,South,Home & Kitchen,Cookware,4,2421,10,9684,968.4,8715.6,7455.61,1259.99,Cash,Online,Returning,24,1
+ORD0306,2025-06-01,Central,Electronics,Speaker,3,2391,15,7173,1075.95,6097.05,3544.96,2552.09,UPI,Online,Returning,33,1
+ORD0307,2025-06-03,North,Electronics,Speaker,5,5665,5,28325,1416.25,26908.75,14139.61,12769.14,Cash,Online,New,55,2
+ORD0308,2025-06-03,Central,Clothing,T-Shirt,5,2054,10,10270,1027.0,9243.0,7538.82,1704.18,Debit Card,Store,Returning,45,2
+ORD0309,2025-06-05,South,Electronics,Speaker,3,2157,5,6471,323.55,6147.45,3788.16,2359.29,Debit Card,Store,New,61,3
+ORD0310,2025-06-06,Central,Electronics,Smartwatch,4,5055,10,20220,2022.0,18198.0,13781.27,4416.73,Cash,Online,Returning,33,2
+ORD0311,2025-06-07,East,Sports,Yoga Mat,3,1154,10,3462,346.2,3115.8,2031.83,1083.97,Debit Card,Online,Returning,26,4
+ORD0312,2025-06-07,East,Sports,Dumbbells,1,1890,5,1890,94.5,1795.5,1094.49,701.01,Cash,Online,New,35,3
+ORD0313,2025-06-07,West,Electronics,Speaker,3,892,10,2676,267.6,2408.4,1625.14,783.26,UPI,Store,Returning,32,5
+ORD0314,2025-06-07,Central,Electronics,Smartwatch,1,5291,0,5291,0.0,5291.0,3627.37,1663.63,Debit Card,Store,Returning,24,2
+ORD0315,2025-06-08,Central,Sports,Yoga Mat,2,327,15,654,98.1,555.9,495.78,60.12,UPI,Online,Returning,40,4
+ORD0316,2025-06-08,East,Sports,Yoga Mat,3,2744,15,8232,1234.8,6997.2,5957.93,1039.27,Debit Card,Online,Returning,52,1
+ORD0317,2025-06-08,East,Beauty,Perfume,5,1038,5,5190,259.5,4930.5,2852.55,2077.95,Cash,Store,New,21,5
+ORD0318,2025-06-08,West,Clothing,Sneakers,3,901,0,2703,0.0,2703.0,1726.13,976.87,UPI,Store,Returning,38,5
+ORD0319,2025-06-09,Central,Beauty,Perfume,1,889,0,889,0.0,889.0,576.59,312.41,Credit Card,Online,New,46,3
+ORD0320,2025-06-10,North,Clothing,Jeans,4,403,15,1612,241.8,1370.2,936.57,433.63,Cash,Store,New,63,5
+ORD0321,2025-06-12,South,Electronics,Keyboard,5,3663,20,18315,3663.0,14652.0,13089.46,1562.54,Net Banking,Store,New,21,4
+ORD0322,2025-06-13,North,Clothing,Jeans,3,1067,15,3201,480.15,2720.85,2298.02,422.83,Cash,Online,New,56,5
+ORD0323,2025-06-13,Central,Sports,Dumbbells,3,1376,10,4128,412.8,3715.2,2516.84,1198.36,Net Banking,Store,Returning,32,3
+ORD0324,2025-06-14,South,Clothing,Jeans,2,478,10,956,95.6,860.4,673.9,186.5,Cash,Store,New,47,3
+ORD0325,2025-06-15,South,Clothing,Jacket,5,2405,0,12025,0.0,12025.0,8717.01,3307.99,Cash,Store,New,37,5
+ORD0326,2025-06-15,West,Sports,Dumbbells,5,2023,15,10115,1517.25,8597.75,6576.09,2021.66,Debit Card,Store,Returning,40,2
+ORD0327,2025-06-15,Central,Home & Kitchen,Storage Box,4,3954,20,15816,3163.2,12652.8,11175.77,1477.03,Cash,Online,Returning,56,4
+ORD0328,2025-06-15,West,Home & Kitchen,Lamp,4,661,10,2644,264.4,2379.6,1612.04,767.56,UPI,Online,Returning,64,3
+ORD0329,2025-06-15,West,Home & Kitchen,Blender,5,2025,15,10125,1518.75,8606.25,7275.8,1330.45,Credit Card,Online,New,29,2
+ORD0330,2025-06-15,East,Clothing,Sneakers,4,1488,5,5952,297.6,5654.4,3697.89,1956.51,Debit Card,Store,New,29,5
+ORD0331,2025-06-16,Central,Home & Kitchen,Storage Box,4,1540,5,6160,308.0,5852.0,4433.55,1418.45,Debit Card,Store,Returning,38,3
+ORD0332,2025-06-16,West,Home & Kitchen,Lamp,4,3641,20,14564,2912.8,11651.2,10539.34,1111.86,Net Banking,Online,Returning,28,2
+ORD0333,2025-06-16,North,Electronics,Speaker,5,1444,5,7220,361.0,6859.0,4303.88,2555.12,Net Banking,Online,Returning,25,1
+ORD0334,2025-06-17,Central,Electronics,Speaker,4,4897,20,19588,3917.6,15670.4,14107.55,1562.85,Credit Card,Online,Returning,36,2
+ORD0335,2025-06-17,East,Home & Kitchen,Storage Box,1,3272,0,3272,0.0,3272.0,2549.88,722.12,Net Banking,Store,Returning,29,3
+ORD0336,2025-06-17,East,Beauty,Moisturizer,2,1778,20,3556,711.2,2844.8,1711.15,1133.65,UPI,Online,New,30,2
+ORD0337,2025-06-18,East,Clothing,Jacket,2,1438,10,2876,287.6,2588.4,1979.72,608.68,Credit Card,Online,New,31,5
+ORD0338,2025-06-19,West,Home & Kitchen,Lamp,2,1940,10,3880,388.0,3492.0,2515.0,977.0,Net Banking,Store,Returning,24,1
+ORD0339,2025-06-19,East,Clothing,T-Shirt,4,1437,10,5748,574.8,5173.2,2865.63,2307.57,Net Banking,Online,Returning,42,3
+ORD0340,2025-06-19,South,Beauty,Moisturizer,4,1236,0,4944,0.0,4944.0,3494.24,1449.76,Credit Card,Online,New,38,5
+ORD0341,2025-06-20,East,Beauty,Moisturizer,5,1041,5,5205,260.25,4944.75,2627.9,2316.85,UPI,Online,Returning,43,1
+ORD0342,2025-06-20,South,Clothing,T-Shirt,5,1349,0,6745,0.0,6745.0,4087.09,2657.91,Credit Card,Online,New,23,3
+ORD0343,2025-06-20,South,Sports,Dumbbells,5,1201,15,6005,900.75,5104.25,4464.68,639.57,Credit Card,Online,New,60,1
+ORD0344,2025-06-21,East,Electronics,Keyboard,1,1606,0,1606,0.0,1606.0,816.44,789.56,Credit Card,Store,Returning,34,2
+ORD0345,2025-06-23,South,Beauty,Face Wash,2,1449,15,2898,434.7,2463.3,1759.31,703.99,Credit Card,Online,New,19,3
+ORD0346,2025-06-24,West,Beauty,Sunscreen,1,1778,0,1778,0.0,1778.0,935.1,842.9,Credit Card,Store,Returning,60,4
+ORD0347,2025-06-24,South,Beauty,Sunscreen,1,1103,15,1103,165.45,937.55,804.87,132.68,Cash,Store,Returning,46,3
+ORD0348,2025-06-24,Central,Electronics,Keyboard,3,3429,15,10287,1543.05,8743.95,7404.65,1339.3,Net Banking,Online,Returning,22,4
+ORD0349,2025-06-24,South,Home & Kitchen,Storage Box,2,2400,0,4800,0.0,4800.0,3707.95,1092.05,Credit Card,Store,Returning,56,3
+ORD0350,2025-06-25,South,Beauty,Face Wash,3,1477,0,4431,0.0,4431.0,3080.01,1350.99,Credit Card,Store,New,45,2
+ORD0351,2025-06-25,East,Sports,Yoga Mat,4,2316,10,9264,926.4,8337.6,5402.25,2935.35,Credit Card,Online,Returning,29,1
+ORD0352,2025-06-26,Central,Electronics,Speaker,3,2432,0,7296,0.0,7296.0,5231.3,2064.7,Debit Card,Online,Returning,32,4
+ORD0353,2025-06-26,East,Beauty,Sunscreen,2,1241,15,2482,372.3,2109.7,1557.18,552.52,Cash,Online,Returning,23,5
+ORD0354,2025-06-28,North,Beauty,Face Wash,3,840,10,2520,252.0,2268.0,1911.06,356.94,Net Banking,Online,New,47,4
+ORD0355,2025-06-29,East,Electronics,Headphones,4,2421,10,9684,968.4,8715.6,6545.68,2169.92,Cash,Store,Returning,18,2
+ORD0356,2025-06-29,East,Electronics,Headphones,2,1795,0,3590,0.0,3590.0,1892.77,1697.23,Cash,Online,Returning,30,4
+ORD0357,2025-06-29,Central,Sports,Running Bottle,5,419,10,2095,209.5,1885.5,1250.88,634.62,Debit Card,Online,Returning,56,5
+ORD0358,2025-06-29,South,Beauty,Sunscreen,3,1069,15,3207,481.05,2725.95,2063.69,662.26,Credit Card,Online,Returning,48,4
+ORD0359,2025-06-29,West,Beauty,Moisturizer,3,1083,5,3249,162.45,3086.55,1988.25,1098.3,Cash,Online,Returning,38,2
+ORD0360,2025-06-30,South,Clothing,Jacket,5,1431,20,7155,1431.0,5724.0,4525.56,1198.44,Cash,Store,New,21,2
+ORD0361,2025-06-30,South,Home & Kitchen,Cookware,3,1625,10,4875,487.5,4387.5,2661.59,1725.91,Net Banking,Online,Returning,38,1
+ORD0362,2025-06-30,South,Electronics,Smartwatch,5,849,20,4245,849.0,3396.0,2450.37,945.63,Debit Card,Online,Returning,50,3
+ORD0363,2025-07-01,South,Electronics,Smartwatch,5,1779,20,8895,1779.0,7116.0,5369.85,1746.15,UPI,Store,New,57,3
+ORD0364,2025-07-02,East,Clothing,Jacket,3,1328,20,3984,796.8,3187.2,1959.31,1227.89,Net Banking,Store,Returning,38,2
+ORD0365,2025-07-03,West,Home & Kitchen,Blender,5,2184,20,10920,2184.0,8736.0,7272.99,1463.01,Credit Card,Online,New,44,1
+ORD0366,2025-07-04,North,Home & Kitchen,Blender,4,2893,5,11572,578.6,10993.4,7875.3,3118.1,Net Banking,Store,Returning,51,5
+ORD0367,2025-07-04,East,Electronics,Keyboard,1,3215,5,3215,160.75,3054.25,1837.29,1216.96,Debit Card,Online,Returning,55,3
+ORD0368,2025-07-04,South,Home & Kitchen,Blender,5,1547,0,7735,0.0,7735.0,5012.41,2722.59,Debit Card,Store,New,22,5
+ORD0369,2025-07-04,East,Beauty,Perfume,4,1310,10,5240,524.0,4716.0,2929.5,1786.5,Credit Card,Online,Returning,56,1
+ORD0370,2025-07-05,South,Clothing,T-Shirt,5,2103,0,10515,0.0,10515.0,7828.58,2686.42,Credit Card,Online,Returning,59,2
+ORD0371,2025-07-06,South,Electronics,Smartwatch,2,5782,0,11564,0.0,11564.0,7609.14,3954.86,Net Banking,Store,New,20,2
+ORD0372,2025-07-06,East,Clothing,Jeans,3,584,5,1752,87.6,1664.4,888.45,775.95,Debit Card,Online,Returning,21,1
+ORD0373,2025-07-06,Central,Beauty,Sunscreen,3,1332,0,3996,0.0,3996.0,2160.61,1835.39,UPI,Online,Returning,64,4
+ORD0374,2025-07-07,East,Clothing,T-Shirt,3,415,5,1245,62.25,1182.75,624.43,558.32,Credit Card,Online,Returning,40,5
+ORD0375,2025-07-07,West,Sports,Resistance Band,3,1139,0,3417,0.0,3417.0,1654.64,1762.36,UPI,Online,New,24,1
+ORD0376,2025-07-08,North,Beauty,Perfume,2,831,10,1662,166.2,1495.8,889.57,606.23,Debit Card,Online,New,29,4
+ORD0377,2025-07-09,West,Clothing,Jeans,5,716,10,3580,358.0,3222.0,2307.24,914.76,Credit Card,Online,New,33,4
+ORD0378,2025-07-09,East,Sports,Yoga Mat,5,2731,15,13655,2048.25,11606.75,10433.34,1173.41,Cash,Store,Returning,49,5
+ORD0379,2025-07-09,West,Clothing,Jacket,1,1998,0,1998,0.0,1998.0,1194.44,803.56,Credit Card,Store,New,20,5
+ORD0380,2025-07-09,West,Sports,Dumbbells,3,2792,10,8376,837.6,7538.4,4673.3,2865.1,Credit Card,Online,New,21,4
+ORD0381,2025-07-10,North,Home & Kitchen,Storage Box,1,2301,15,2301,345.15,1955.85,1691.0,264.85,Credit Card,Store,New,38,5
+ORD0382,2025-07-11,West,Home & Kitchen,Storage Box,4,855,0,3420,0.0,3420.0,2451.26,968.74,Credit Card,Store,Returning,60,1
+ORD0383,2025-07-11,East,Beauty,Moisturizer,3,1799,0,5397,0.0,5397.0,3248.88,2148.12,Cash,Online,New,62,3
+ORD0384,2025-07-11,South,Electronics,Smartwatch,2,2153,10,4306,430.6,3875.4,3259.5,615.9,Debit Card,Online,New,50,1
+ORD0385,2025-07-11,South,Home & Kitchen,Blender,4,3384,0,13536,0.0,13536.0,7809.76,5726.24,Debit Card,Online,Returning,42,5
+ORD0386,2025-07-11,Central,Home & Kitchen,Cookware,3,2348,20,7044,1408.8,5635.2,3582.9,2052.3,Cash,Store,Returning,41,3
+ORD0387,2025-07-12,Central,Clothing,Jeans,4,2259,15,9036,1355.4,7680.6,5063.44,2617.16,Debit Card,Store,New,43,3
+ORD0388,2025-07-12,North,Beauty,Sunscreen,3,817,20,2451,490.2,1960.8,1288.66,672.14,Debit Card,Online,Returning,42,5
+ORD0389,2025-07-13,North,Beauty,Perfume,4,383,10,1532,153.2,1378.8,744.72,634.08,Debit Card,Store,Returning,26,4
+ORD0390,2025-07-13,North,Beauty,Moisturizer,1,236,10,236,23.6,212.4,131.35,81.05,UPI,Store,Returning,21,3
+ORD0391,2025-07-14,East,Sports,Yoga Mat,3,1553,10,4659,465.9,4193.1,2245.16,1947.94,Net Banking,Online,Returning,29,2
+ORD0392,2025-07-14,West,Beauty,Perfume,4,672,10,2688,268.8,2419.2,1490.94,928.26,UPI,Online,Returning,48,3
+ORD0393,2025-07-14,South,Sports,Resistance Band,2,1061,15,2122,318.3,1803.7,1372.23,431.47,Cash,Store,Returning,50,5
+ORD0394,2025-07-15,West,Electronics,Keyboard,4,1375,20,5500,1100.0,4400.0,3971.28,428.72,UPI,Online,New,63,3
+ORD0395,2025-07-15,Central,Clothing,T-Shirt,3,2488,5,7464,373.2,7090.8,4745.18,2345.62,UPI,Store,New,60,1
+ORD0396,2025-07-15,South,Beauty,Face Wash,1,303,15,303,45.45,257.55,213.71,43.84,UPI,Online,Returning,53,2
+ORD0397,2025-07-15,North,Beauty,Perfume,2,579,10,1158,115.8,1042.2,620.29,421.91,Cash,Online,Returning,30,4
+ORD0398,2025-07-15,West,Home & Kitchen,Blender,2,1504,0,3008,0.0,3008.0,2231.41,776.59,Cash,Online,Returning,37,2
+ORD0399,2025-07-16,East,Beauty,Sunscreen,4,805,0,3220,0.0,3220.0,1711.63,1508.37,Credit Card,Store,Returning,48,4
+ORD0400,2025-07-16,East,Beauty,Sunscreen,5,911,15,4555,683.25,3871.75,2546.26,1325.49,Net Banking,Online,New,46,5
+ORD0401,2025-07-16,Central,Clothing,Jeans,2,636,15,1272,190.8,1081.2,637.52,443.68,UPI,Online,Returning,62,2
+ORD0402,2025-07-16,South,Home & Kitchen,Storage Box,4,1311,10,5244,524.4,4719.6,3322.32,1397.28,Debit Card,Store,Returning,19,4
+ORD0403,2025-07-17,East,Home & Kitchen,Storage Box,3,3275,0,9825,0.0,9825.0,4839.99,4985.01,Debit Card,Store,New,46,4
+ORD0404,2025-07-18,Central,Sports,Yoga Mat,5,606,15,3030,454.5,2575.5,1596.45,979.05,Net Banking,Online,Returning,61,4
+ORD0405,2025-07-18,South,Electronics,Headphones,2,1045,15,2090,313.5,1776.5,1255.86,520.64,Debit Card,Online,Returning,32,4
+ORD0406,2025-07-18,South,Sports,Dumbbells,2,1213,0,2426,0.0,2426.0,1255.91,1170.09,Debit Card,Online,Returning,18,4
+ORD0407,2025-07-19,East,Electronics,Keyboard,5,4929,0,24645,0.0,24645.0,16411.18,8233.82,Net Banking,Store,Returning,54,2
+ORD0408,2025-07-19,South,Home & Kitchen,Storage Box,5,2569,0,12845,0.0,12845.0,8288.74,4556.26,UPI,Store,Returning,29,5
+ORD0409,2025-07-21,South,Sports,Yoga Mat,4,1553,15,6212,931.8,5280.2,3112.79,2167.41,UPI,Online,Returning,45,5
+ORD0410,2025-07-21,Central,Sports,Yoga Mat,1,894,15,894,134.1,759.9,683.81,76.09,Cash,Store,Returning,39,5
+ORD0411,2025-07-21,Central,Home & Kitchen,Blender,5,2709,15,13545,2031.75,11513.25,9311.73,2201.52,Net Banking,Online,Returning,48,4
+ORD0412,2025-07-21,South,Beauty,Face Wash,4,1621,15,6484,972.6,5511.4,3342.11,2169.29,Debit Card,Online,New,52,3
+ORD0413,2025-07-21,East,Electronics,Smartwatch,5,1329,10,6645,664.5,5980.5,3527.89,2452.61,Cash,Online,Returning,28,1
+ORD0414,2025-07-22,East,Sports,Running Bottle,4,1546,15,6184,927.6,5256.4,4666.34,590.06,Credit Card,Online,Returning,25,3
+ORD0415,2025-07-22,West,Home & Kitchen,Blender,1,2195,5,2195,109.75,2085.25,1342.75,742.5,UPI,Store,New,58,4
+ORD0416,2025-07-23,East,Beauty,Sunscreen,4,1135,10,4540,454.0,4086.0,2990.33,1095.67,Net Banking,Online,Returning,54,1
+ORD0417,2025-07-25,Central,Home & Kitchen,Cookware,4,3034,5,12136,606.8,11529.2,8647.75,2881.45,Debit Card,Online,New,50,3
+ORD0418,2025-07-25,East,Clothing,Jeans,4,1432,10,5728,572.8,5155.2,3401.17,1754.03,UPI,Online,New,31,1
+ORD0419,2025-07-26,Central,Sports,Dumbbells,5,1273,10,6365,636.5,5728.5,4138.57,1589.93,Net Banking,Online,New,34,2
+ORD0420,2025-07-26,West,Home & Kitchen,Blender,2,3542,0,7084,0.0,7084.0,4373.79,2710.21,Credit Card,Online,Returning,53,1
+ORD0421,2025-07-26,West,Electronics,Speaker,3,5860,10,17580,1758.0,15822.0,10201.36,5620.64,UPI,Online,New,51,5
+ORD0422,2025-07-27,East,Beauty,Moisturizer,4,497,0,1988,0.0,1988.0,1044.48,943.52,UPI,Store,Returning,60,2
+ORD0423,2025-07-27,South,Electronics,Speaker,5,2176,10,10880,1088.0,9792.0,7358.92,2433.08,Debit Card,Online,Returning,38,5
+ORD0424,2025-07-27,South,Home & Kitchen,Cookware,5,3214,15,16070,2410.5,13659.5,9064.45,4595.05,Cash,Online,New,54,3
+ORD0425,2025-07-28,Central,Sports,Running Bottle,5,544,5,2720,136.0,2584.0,1597.4,986.6,Debit Card,Online,Returning,22,4
+ORD0426,2025-07-28,West,Home & Kitchen,Blender,4,2567,0,10268,0.0,10268.0,6153.02,4114.98,Debit Card,Online,Returning,23,2
+ORD0427,2025-07-28,West,Beauty,Perfume,4,1758,0,7032,0.0,7032.0,4008.91,3023.09,Debit Card,Online,Returning,65,2
+ORD0428,2025-07-29,North,Beauty,Face Wash,3,1679,15,5037,755.55,4281.45,3260.78,1020.67,Cash,Store,New,65,3
+ORD0429,2025-07-30,North,Beauty,Sunscreen,4,1564,10,6256,625.6,5630.4,3171.9,2458.5,Cash,Store,New,22,2
+ORD0430,2025-07-30,West,Sports,Yoga Mat,1,1607,5,1607,80.35,1526.65,903.88,622.77,Net Banking,Online,Returning,40,2
+ORD0431,2025-07-31,Central,Clothing,T-Shirt,3,817,5,2451,122.55,2328.45,1725.09,603.36,Cash,Store,New,35,4
+ORD0432,2025-07-31,Central,Beauty,Sunscreen,5,1595,0,7975,0.0,7975.0,5408.45,2566.55,Cash,Online,Returning,62,3
+ORD0433,2025-08-01,South,Home & Kitchen,Cookware,1,860,15,860,129.0,731.0,461.99,269.01,Net Banking,Online,Returning,46,1
+ORD0434,2025-08-02,North,Beauty,Perfume,4,1378,10,5512,551.2,4960.8,3917.48,1043.32,Debit Card,Store,Returning,26,5
+ORD0435,2025-08-02,Central,Sports,Yoga Mat,5,807,0,4035,0.0,4035.0,3120.72,914.28,Debit Card,Online,New,18,2
+ORD0436,2025-08-02,Central,Home & Kitchen,Lamp,2,3949,10,7898,789.8,7108.2,4553.58,2554.62,Net Banking,Online,New,23,5
+ORD0437,2025-08-03,East,Electronics,Speaker,3,2309,5,6927,346.35,6580.65,3920.91,2659.74,UPI,Online,Returning,48,3
+ORD0438,2025-08-03,South,Clothing,T-Shirt,4,1957,0,7828,0.0,7828.0,5220.14,2607.86,Net Banking,Online,New,26,2
+ORD0439,2025-08-03,Central,Clothing,Jeans,1,1671,10,1671,167.1,1503.9,828.67,675.23,Credit Card,Store,New,65,2
+ORD0440,2025-08-05,West,Home & Kitchen,Blender,1,2026,5,2026,101.3,1924.7,1577.12,347.58,Net Banking,Online,New,58,3
+ORD0441,2025-08-05,East,Clothing,Sneakers,3,1294,10,3882,388.2,3493.8,2876.67,617.13,Net Banking,Online,Returning,39,1
+ORD0442,2025-08-07,West,Clothing,Jacket,5,1197,10,5985,598.5,5386.5,3606.29,1780.21,Net Banking,Online,Returning,51,2
+ORD0443,2025-08-10,North,Beauty,Face Wash,3,1563,10,4689,468.9,4220.1,2450.87,1769.23,UPI,Online,New,55,5
+ORD0444,2025-08-10,North,Beauty,Sunscreen,5,710,20,3550,710.0,2840.0,2074.48,765.52,Credit Card,Online,Returning,55,4
+ORD0445,2025-08-11,East,Electronics,Smartwatch,4,1996,5,7984,399.2,7584.8,5433.72,2151.08,Debit Card,Online,Returning,60,4
+ORD0446,2025-08-11,Central,Home & Kitchen,Storage Box,5,1533,0,7665,0.0,7665.0,4362.01,3302.99,UPI,Online,New,21,2
+ORD0447,2025-08-11,Central,Home & Kitchen,Storage Box,3,2544,10,7632,763.2,6868.8,4107.07,2761.73,Credit Card,Online,Returning,34,1
+ORD0448,2025-08-12,West,Home & Kitchen,Cookware,1,1252,0,1252,0.0,1252.0,727.39,524.61,Net Banking,Online,Returning,55,3
+ORD0449,2025-08-12,West,Electronics,Smartwatch,3,5555,20,16665,3333.0,13332.0,11728.55,1603.45,Cash,Online,New,32,4
+ORD0450,2025-08-13,East,Home & Kitchen,Blender,1,3171,0,3171,0.0,3171.0,1556.74,1614.26,Debit Card,Online,Returning,62,1
+ORD0451,2025-08-13,East,Sports,Yoga Mat,2,1576,20,3152,630.4,2521.6,2028.21,493.39,Debit Card,Store,New,61,5
+ORD0452,2025-08-14,East,Clothing,Jacket,5,1358,10,6790,679.0,6111.0,3814.26,2296.74,Cash,Online,New,44,4
+ORD0453,2025-08-14,East,Electronics,Keyboard,2,2805,0,5610,0.0,5610.0,2819.02,2790.98,Debit Card,Online,New,55,4
+ORD0454,2025-08-15,North,Home & Kitchen,Cookware,4,3686,20,14744,2948.8,11795.2,10916.53,878.67,Credit Card,Store,New,24,4
+ORD0455,2025-08-15,Central,Home & Kitchen,Cookware,5,1278,5,6390,319.5,6070.5,3415.05,2655.45,UPI,Online,Returning,44,4
+ORD0456,2025-08-16,North,Home & Kitchen,Cookware,1,422,15,422,63.3,358.7,294.94,63.76,Debit Card,Online,Returning,37,3
+ORD0457,2025-08-18,South,Electronics,Keyboard,2,4309,10,8618,861.8,7756.2,4177.79,3578.41,Credit Card,Online,Returning,61,3
+ORD0458,2025-08-18,Central,Clothing,Jacket,3,1341,10,4023,402.3,3620.7,2416.42,1204.28,UPI,Online,Returning,55,5
+ORD0459,2025-08-19,Central,Electronics,Keyboard,1,2286,5,2286,114.3,2171.7,1664.13,507.57,UPI,Online,New,57,1
+ORD0460,2025-08-20,East,Electronics,Speaker,3,2952,5,8856,442.8,8413.2,5051.8,3361.4,UPI,Store,New,53,4
+ORD0461,2025-08-20,East,Electronics,Headphones,2,4576,0,9152,0.0,9152.0,7000.11,2151.89,Debit Card,Online,New,44,2
+ORD0462,2025-08-20,East,Sports,Running Bottle,1,2381,10,2381,238.1,2142.9,1225.22,917.68,Credit Card,Online,Returning,62,4
+ORD0463,2025-08-20,West,Clothing,Jeans,3,1446,10,4338,433.8,3904.2,2803.76,1100.44,Credit Card,Store,New,60,2
+ORD0464,2025-08-20,Central,Home & Kitchen,Blender,5,2509,15,12545,1881.75,10663.25,9203.48,1459.77,UPI,Store,New,48,5
+ORD0465,2025-08-20,North,Clothing,T-Shirt,5,1339,10,6695,669.5,6025.5,4179.5,1846.0,Credit Card,Online,Returning,52,4
+ORD0466,2025-08-22,South,Beauty,Moisturizer,4,1608,15,6432,964.8,5467.2,4191.41,1275.79,Net Banking,Online,Returning,39,2
+ORD0467,2025-08-22,South,Beauty,Face Wash,2,1651,5,3302,165.1,3136.9,2392.2,744.7,Cash,Store,Returning,22,3
+ORD0468,2025-08-22,Central,Sports,Dumbbells,4,2669,10,10676,1067.6,9608.4,6217.77,3390.63,Credit Card,Online,Returning,35,2
+ORD0469,2025-08-23,West,Home & Kitchen,Storage Box,5,3203,10,16015,1601.5,14413.5,8425.82,5987.68,Credit Card,Store,Returning,43,1
+ORD0470,2025-08-23,North,Clothing,Sneakers,2,839,10,1678,167.8,1510.2,1208.5,301.7,Debit Card,Store,Returning,49,4
+ORD0471,2025-08-23,East,Home & Kitchen,Blender,2,1142,0,2284,0.0,2284.0,1258.5,1025.5,Net Banking,Online,New,50,4
+ORD0472,2025-08-23,North,Clothing,T-Shirt,4,441,0,1764,0.0,1764.0,851.61,912.39,Credit Card,Online,New,47,4
+ORD0473,2025-08-23,North,Home & Kitchen,Lamp,5,1438,10,7190,719.0,6471.0,4339.83,2131.17,Debit Card,Online,Returning,32,5
+ORD0474,2025-08-24,West,Electronics,Speaker,4,1886,5,7544,377.2,7166.8,4374.33,2792.47,Cash,Online,Returning,30,1
+ORD0475,2025-08-25,Central,Home & Kitchen,Blender,2,2889,10,5778,577.8,5200.2,3160.93,2039.27,UPI,Online,New,45,4
+ORD0476,2025-08-27,West,Clothing,T-Shirt,3,875,0,2625,0.0,2625.0,1606.18,1018.82,Cash,Store,Returning,57,3
+ORD0477,2025-08-27,Central,Clothing,T-Shirt,4,469,0,1876,0.0,1876.0,1064.4,811.6,Debit Card,Online,Returning,64,3
+ORD0478,2025-08-27,West,Home & Kitchen,Storage Box,2,3546,10,7092,709.2,6382.8,4700.29,1682.51,Debit Card,Online,Returning,42,1
+ORD0479,2025-08-28,South,Electronics,Headphones,5,5213,10,26065,2606.5,23458.5,14060.8,9397.7,Net Banking,Online,Returning,63,4
+ORD0480,2025-08-28,East,Electronics,Headphones,2,1498,0,2996,0.0,2996.0,2335.88,660.12,Credit Card,Store,New,48,5
+ORD0481,2025-08-29,North,Sports,Yoga Mat,5,580,15,2900,435.0,2465.0,1630.98,834.02,Debit Card,Online,Returning,42,1
+ORD0482,2025-08-29,Central,Home & Kitchen,Blender,4,1382,20,5528,1105.6,4422.4,3504.12,918.28,Cash,Online,New,29,3
+ORD0483,2025-08-29,South,Clothing,Jeans,3,803,20,2409,481.8,1927.2,1317.72,609.48,Debit Card,Online,New,61,4
+ORD0484,2025-08-30,East,Sports,Yoga Mat,3,391,20,1173,234.6,938.4,708.59,229.81,Cash,Online,Returning,57,2
+ORD0485,2025-08-30,North,Sports,Dumbbells,1,1251,20,1251,250.2,1000.8,809.0,191.8,Cash,Online,Returning,64,5
+ORD0486,2025-08-31,Central,Clothing,Jacket,5,1785,15,8925,1338.75,7586.25,5490.32,2095.93,UPI,Online,Returning,50,5
+ORD0487,2025-08-31,North,Clothing,T-Shirt,3,1950,0,5850,0.0,5850.0,4433.82,1416.18,Cash,Store,New,37,3
+ORD0488,2025-08-31,West,Beauty,Perfume,3,578,10,1734,173.4,1560.6,854.1,706.5,Debit Card,Online,Returning,42,5
+ORD0489,2025-08-31,East,Electronics,Smartwatch,5,1628,15,8140,1221.0,6919.0,5128.29,1790.71,UPI,Online,New,34,5
+ORD0490,2025-08-31,North,Beauty,Perfume,1,1379,5,1379,68.95,1310.05,1007.34,302.71,Net Banking,Online,Returning,54,2
+ORD0491,2025-09-01,East,Electronics,Keyboard,1,1166,0,1166,0.0,1166.0,560.98,605.02,Credit Card,Online,Returning,21,2
+ORD0492,2025-09-01,East,Sports,Resistance Band,3,1391,10,4173,417.3,3755.7,2921.3,834.4,Credit Card,Store,New,60,2
+ORD0493,2025-09-01,South,Beauty,Perfume,5,1706,0,8530,0.0,8530.0,4218.5,4311.5,UPI,Online,Returning,64,3
+ORD0494,2025-09-03,South,Home & Kitchen,Lamp,3,262,0,786,0.0,786.0,581.52,204.48,UPI,Online,Returning,33,3
+ORD0495,2025-09-05,West,Beauty,Perfume,2,422,15,844,126.6,717.4,651.79,65.61,Debit Card,Online,Returning,28,3
+ORD0496,2025-09-05,Central,Sports,Dumbbells,4,1512,0,6048,0.0,6048.0,2938.82,3109.18,UPI,Store,New,53,1
+ORD0497,2025-09-06,South,Sports,Dumbbells,5,2755,10,13775,1377.5,12397.5,8466.38,3931.12,Credit Card,Online,New,21,1
+ORD0498,2025-09-06,Central,Home & Kitchen,Blender,2,620,10,1240,124.0,1116.0,759.73,356.27,UPI,Online,New,22,2
+ORD0499,2025-09-07,West,Sports,Resistance Band,1,1363,15,1363,204.45,1158.55,910.59,247.96,UPI,Online,Returning,48,3
+ORD0500,2025-09-07,North,Clothing,T-Shirt,5,541,10,2705,270.5,2434.5,1828.36,606.14,Debit Card,Online,New,51,5
